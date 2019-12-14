@@ -1,0 +1,1 @@
+According to support of new youtybe format - iframe, ,iframe[src|title|width|height|allowfullscreen|frameborder] tags support added for default valid_elements
